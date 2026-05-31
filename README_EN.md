@@ -1,4 +1,4 @@
-# Game Save Cloud
+# Game Saving Cloud
 
 Cloud save manager for games — backup and restore game saves with a server/client architecture.
 

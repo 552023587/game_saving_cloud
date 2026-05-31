@@ -14,6 +14,10 @@ Server (FastAPI)  ←→  Client (PySide2 Qt5)
 - 服务端：REST API，SQLite 存储，文件系统存 zip 存档
 - 客户端：游戏列表 + 详情面板，一键上传/下载存档
 
+## 界面
+
+![应用截图](app.png)
+
 ## 安装
 
 ```bash

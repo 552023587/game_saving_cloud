@@ -14,6 +14,10 @@ Server (FastAPI)  ←→  Client (PySide2 Qt5)
 - **Server**: REST API, SQLite storage, filesystem-based zip save storage
 - **Client**: Game list + detail panel, one-click upload/download saves
 
+## Screenshot
+
+![App Screenshot](app.png)
+
 ## Installation
 
 ```bash
